@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, my name is Chanson😊
 
-<!--
-**chanchantang/chanchantang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm currently a student at Simon Fraser University!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on finding an internship
+- 🌱 I’m currently learning MERN Stack
+- 👯 I’m looking to collaborate on learning D&A
+- 🤔 I’m looking for help with my studies
+- 💬 Ask me about anything!
+- 📫 How to reach me: Talk to me ¯\_(ツ)_/¯
+- 😄 Pronouns: he but not him, because I will never be him
+- ⚡ Fun fact: I spend more hours watching anime than studying ᨐ∫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
