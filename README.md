@@ -11,3 +11,4 @@
 - 😄 Pronouns: he but not him, because I will never be him
 - ⚡ Fun fact: I spend more hours watching anime than studying ᨐ∫
 
+![logo](https://user-images.githubusercontent.com/90084138/150899581-a8f7449a-a4a3-4eca-a594-0aa6b0f744d2.png)
