@@ -1,14 +1,26 @@
-### Hi there, my name is Chanson😊
+## Hi there 👋 I'm Chanson!
 
-## I'm currently a student at Simon Fraser University!
+I'm currently searching for new grad Software Engineer, Full-Stack Developer, or Data Scientist starting in 2024.
+Feel free to reach out if you would like to have a (virtual) coffee chat! 
 
-- 🔭 I’m currently working on finding an internship
-- 🌱 I’m currently learning MERN Stack
-- 👯 I’m looking to collaborate on learning D&A
-- 🤔 I’m looking for help with my studies
-- 💬 Ask me about anything!
-- 📫 How to reach me: Talk to me ¯\\_(ツ)_/¯
-- 😄 Pronouns: he but not him, because I will never be him
-- ⚡ Fun fact: I spend more hours watching anime than studying ᨐ∫
+**My Languages and Tools**
 
-![logo](https://user-images.githubusercontent.com/90084138/150899581-a8f7449a-a4a3-4eca-a594-0aa6b0f744d2.png)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,js,html,css,matlab)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=electron,git,qt,react,nodejs,maven)](https://skillicons.dev)
+
+---
+🏫 I am currently a student at [Simon Fraser Univeristy](https://www.sfu.ca/) majoring in **computer science** with a focus in **artificial intelligence**.
+
+---
+⚡ **Fun Facts About Me**
+- I like starting a lot of hobbies but never commiting: Keyboard building, Gundam modeling, Painting.
+- I play video games such as Valorant, CS2, Apex Legends, and League of Legends.
+- I love playing a variety of sports such as Hockey, Volleyball, and Ultimate Frisbee.
+---
+
+😄 **Check out** my [personal portfolio](https://chanchantang.github.io/Portfolio).
+
+💬 **Reach out to me**:
+- [LinkedIn](https://www.linkedin.com/in/chansontang/)
+- [Email](mailto:cta111@sfu.ca)
